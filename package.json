@@ -1,0 +1,23 @@
+{
+  "name": "registers",
+  "version": "1.0.0",
+  "description": "application to have registration of my money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugolara2/Registers.git"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Hugo Lara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugolara2/Registers/issues"
+  },
+  "homepage": "https://github.com/hugolara2/Registers#readme"
+}
